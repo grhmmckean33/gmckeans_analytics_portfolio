@@ -16,5 +16,7 @@ The data was taken from the UK Governments 'Office of National Statistics' (ONS)
 - On the sdashboard there is a Religioius trends line chart, that looks at religious belief of offenders as a comparison between 2004 - 2023.
 
 # Power BI Dashboard
-Although I have included a screenshot below of the dashboard, a link to a video demo can be found here - [Power BI Offender Data Dashboard]
-Alternatively if you have Power BI installed and you have access to an account that allows you to view power BI files (pbix extension) then you can download the file directly and play with the interctive content here - [Original PBI Dashboard file]
+Although I have included a screenshot below of the dashboard, a link to a video demo which will automatically download can be found here - [Prison Data Dash Demo - Short.mp4](https://github.com/grhmmckean33/gmckeans_analytics_portfolio/raw/refs/heads/main/Prison Data Dash Demo - Short.mp4)
+Alternatively if you have Power BI installed and you have access to an account that allows you to view power BI files (pbix extension) then you can download the file directly and play with the interctive content here - [Prison Data by Year.pbix](https://github.com/grhmmckean33/gmckeans_analytics_portfolio/raw/refs/heads/main/Prison Data by Year.pbix)
+
+![EWPDUK](https://github.com/user-attachments/assets/8a5f30af-f841-4750-81d2-739eb6b1e461)
