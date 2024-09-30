@@ -1,5 +1,3 @@
-# Analytics Portfolio Projects
-
 # [Project 1 - Power BI Offender Data Dashboard](https://grhmmckean33.github.io/gmckeans_analytics_portfolio/)
 
 # Background
